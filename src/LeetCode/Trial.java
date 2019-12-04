@@ -1,15 +1,11 @@
 package LeetCode;
 
 import java.util.HashMap;
+import java.util.Random;
 
 public class Trial {
     public static void main(String[] args) {
-
-        try{
-            System.out.println("Hello");
-        } finally {
-            System.out.println("!");
-        }
+        System.out.println(11%10);
     }
 
 }
