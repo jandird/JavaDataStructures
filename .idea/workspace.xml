@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8f2dcdc-9e60-491f-8987-beb4980f24bd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/ConfusingNumberOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/MissingRanges.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/AlgebraceGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/AlgebraceGenerator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/LeetCode/Trial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/Trial.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -26,10 +25,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LeetCode/MinimumWindowSubstring.java">
+        <entry file="file://$PROJECT_DIR$/src/LeetCode/MissingRanges.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="878">
-              <caret line="74" column="5" selection-start-line="74" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
+            <state relative-caret-position="44">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -38,28 +37,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LeetCode/ConfusingNumberOne.java">
+        <entry file="file://$PROJECT_DIR$/src/LeetCode/Trial.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state relative-caret-position="257">
+              <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/LeetCode/LongestSubstringTwoDistinctChars.java">
+        <entry file="file://$PROJECT_DIR$/src/LeetCode/MinimumWindowSubstring.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="45" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LeetCode/Trial.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+            <state relative-caret-position="1224">
+              <caret line="74" column="5" selection-start-line="74" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -108,16 +101,19 @@
         <option value="$PROJECT_DIR$/src/LeetCode/MinimumWindowSubstring.java" />
         <option value="$PROJECT_DIR$/src/LeetCode/MaxDominoSum.java" />
         <option value="$PROJECT_DIR$/src/LeetCode/AddTwoNumbers.java" />
-        <option value="$PROJECT_DIR$/src/LeetCode/Trial.java" />
         <option value="$PROJECT_DIR$/src/LeetCode/ConfusingNumberOne.java" />
         <option value="$PROJECT_DIR$/src/LeetCode/AlgebraceGenerator.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/LongestSubstringTwoDistinctChars.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/MissingRanges.java" />
+        <option value="$PROJECT_DIR$/src/LeetCode/Trial.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1680" />
-    <option name="height" value="969" />
+    <option name="x" value="118" />
+    <option name="y" value="47" />
+    <option name="width" value="1490" />
+    <option name="height" value="884" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -278,7 +274,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AlgebraceGenerator">
+  <component name="RunManager" selected="Application.Trial">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -327,13 +323,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SnapTravel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="GeeksForGeeks.SnapTravel" />
+    <configuration name="MissingRanges" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.MissingRanges" />
       <module name="JavaDataStructures" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="GeeksForGeeks.*" />
+          <option name="PATTERN" value="LeetCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -387,19 +383,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.SnapTravel" />
       <item itemvalue="Application.Trial" />
       <item itemvalue="Application.MinimumDominoRotations" />
       <item itemvalue="Application.AlgebraceGenerator" />
       <item itemvalue="Application.MinimumWindowSubstring" />
+      <item itemvalue="Application.MissingRanges" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AlgebraceGenerator" />
         <item itemvalue="Application.Trial" />
+        <item itemvalue="Application.MissingRanges" />
+        <item itemvalue="Application.AlgebraceGenerator" />
         <item itemvalue="Application.MinimumWindowSubstring" />
         <item itemvalue="Application.MinimumDominoRotations" />
-        <item itemvalue="Application.SnapTravel" />
       </list>
     </recent_temporary>
   </component>
@@ -425,18 +421,18 @@
       <workItem from="1574661015423" duration="82000" />
       <workItem from="1574661203371" duration="47000" />
       <workItem from="1574747872230" duration="980000" />
-      <workItem from="1575017721709" duration="17956000" />
+      <workItem from="1575017721709" duration="19663000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37436000" />
+    <option name="totallyTimeSpent" value="39143000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="969" extended-state="0" />
+    <frame x="118" y="47" width="1490" height="884" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22771673" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25759667" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -445,7 +441,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32752612" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36340207" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -453,7 +449,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3298122" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32860824" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -650,30 +646,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/Trial.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/LeetCode/AlgebraceGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="34" column="36" lean-forward="true" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LeetCode/MinimumWindowSubstring.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="878">
-          <caret line="74" column="5" selection-start-line="74" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -686,8 +662,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LeetCode/LongestSubstringTwoDistinctChars.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="45" selection-start-line="2" selection-start-column="45" selection-end-line="2" selection-end-column="45" />
+        <state relative-caret-position="1218">
+          <caret line="58" column="5" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/MissingRanges.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/Trial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LeetCode/MinimumWindowSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="74" column="5" selection-start-line="74" selection-start-column="5" selection-end-line="74" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
