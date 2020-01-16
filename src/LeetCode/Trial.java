@@ -17,6 +17,7 @@ public class Trial {
         s2.push(11);
 
         System.out.println(s1.equals(s2));
+        System.out.println("mo".substring(0, 1));
     }
 
 }
